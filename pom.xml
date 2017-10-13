@@ -10,7 +10,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <version.vertx>3.4.1</version.vertx>
+    <version.vertx>3.4.2</version.vertx>
     <version.vertx-maven-plugin>1.0.7</version.vertx-maven-plugin>
     <version.fabric8-maven-plugin>3.5.25</version.fabric8-maven-plugin>
     <vertx.verticle>com.redhat.coolstore.catalog.verticle.MainVerticle</vertx.verticle>
